@@ -189,6 +189,11 @@
         <apache.commons-codec.version>1.10</apache.commons-codec.version>
         <apache.commons-io.version>2.5</apache.commons-io.version>
         <apache.commons-fileupload.version>1.4</apache.commons-fileupload.version>
+
+        <!-- Sonar properties -->
+        <sonar.projectKey>orchitech_wrenidm</sonar.projectKey>
+        <sonar.organization>orchitech</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
     <modules>
